@@ -7,10 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
-### Courses
+## Courses
 
 
-### Books
+## Books
 
 * Digital Integrated Circuits, A Design Perspective. Second Edition
 * CMOS VLSI Design, A Circuits and Systems Perspective. Fourth Edition
@@ -19,6 +19,6 @@ redirect_from:
 * 动手学深度学习 Release 2.0.0-beta1
 
 
-### Papers
-## SRAM IMC(Analog)
+## Papers
+### SRAM IMC(Analog)
 * A Fully Bit-Flexible Computation in Memory Macro Using Multi-Functional Computing Bit Cell and Embedded Input Sparsity Sensing, JSSC, May 2023
