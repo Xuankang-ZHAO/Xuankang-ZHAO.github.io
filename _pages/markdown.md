@@ -10,7 +10,6 @@ redirect_from:
 ### Courses
 
 
-
 ### Books
 
 * Digital Integrated Circuits, A Design Perspective. Second Edition
