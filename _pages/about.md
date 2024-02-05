@@ -24,5 +24,5 @@ Xuankang ZHAO is now an undergraduate student at The Southern University of Scie
 
 
 ## News
-**[04/02/2024] Homepage:** I build this **Homepage**! \
+**[04/02/2024] Homepage:** I build this **Homepage**! 
 
