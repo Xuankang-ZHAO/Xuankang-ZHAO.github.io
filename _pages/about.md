@@ -19,7 +19,7 @@ redirect_from:
 Xuankang ZHAO is now an undergraduate student at The Southern University of Science and Technology supervised by **Prof. Yida Li** (Assistant Professor,SUSTECH). He is also a potential PhD student supervised by **Prof. Gang Liu** ( Professor, SJTU). His current research interests are Compute-In-Memory (CIM) for energy-efficient machine learning applications. 
 
 
-**Email:** 12010326@mail.sustech.edu.cn
+**Email:** 12010326@mail.sustech.edu.cn **or** xuankang724@gmail.com
 
 
 
