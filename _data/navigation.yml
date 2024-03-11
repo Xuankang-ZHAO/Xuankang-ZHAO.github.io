@@ -18,5 +18,5 @@ main:
   #- title: "CV"
   #  url: /cv/
     
-  - title: "Learning Zone"
-    url: /markdown/
+  #- title: "Learning Zone"
+  # url: /markdown/
