@@ -25,4 +25,5 @@ Xuankang ZHAO is now an undergraduate student at The Southern University of Scie
 
 ## News
 **[04/02/2024] Homepage:** I build this **Homepage**! 
+**[04/07/2024] Homepage:** I graduated from **Sustech** and earned my bachelor's degree in engineering. The past four years have been an incredible journey. Thanks to Prof. Yida Li and all the teachers and friends in Sustech.  
 
