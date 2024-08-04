@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xuankang-Zhao"
   avatar           : "profile.png"
-  bio              : "Undergraduate at SUSTECH"
-  location         : "Shenzhen, China"
+  bio              : "PhD student at SJTU"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "12010326@mail.sustech.edu.cn"
+  email            : "xuankang_zhao@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
