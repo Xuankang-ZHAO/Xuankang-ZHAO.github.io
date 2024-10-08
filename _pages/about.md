@@ -24,9 +24,13 @@ Xuankang ZHAO is now a PhD student at the Shanghai Jiao Tong University supervis
 
 
 ## News
-**[Feb 4, 2024]** I build this **Homepage**! 
+**[Sep 19, 2024]** I started my new journey at **SJTU**.
 
 **[Jul 4, 2024]** I graduated from **SUSTECH** and earned my bachelor's degree in engineering. The past four years have been an incredible journey. Thanks to Prof. Yida Li and all the teachers and friends in SUSTECH.  
 
-**[Sep 19, 2024]** I started my new journey at **SJTU**.
+**[Feb 4, 2024]** I build this **Homepage**! 
+
+
+
+
 
