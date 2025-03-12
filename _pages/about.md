@@ -19,7 +19,7 @@ redirect_from:
 I am currently a PhD student at Shanghai Jiao Tong University advised by Prof.Weifeng He. I have general reasearch interests in VLSI design and efficient AI systems.
 
 
-**Email:** xuankang_zhao@sjtu.edu.cn **(preferred)** **or** 12010326@mail.sustech.edu.cn **or** xuankang724@gmail.com
+**Email:** xuankang_zhao@sjtu.edu.cn **(preferred)**  **or** xuankang724@gmail.com
 
 
 
