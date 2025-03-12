@@ -16,7 +16,7 @@ redirect_from:
 ### PhD student at The Shanghai Jiao Tong University(SJTU)
 &emsp;
 
-Xuankang ZHAO is now a PhD student at the Shanghai Jiao Tong University supervised by **Prof. Gang Liu** (SJTU). Before that, he is an undergraduate student at The Southern University of Science and Technology supervised by **Prof. Yida Li** (SUSTECH). His current research interests are Compute-In-Memory (CIM) for energy-efficient machine learning applications. 
+I am currently a PhD student at Shanghai Jiao Tong University advised by Prof.Weifeng He. I have general reasearch interests in VLSI design and efficient AI systems.
 
 
 **Email:** xuankang_zhao@sjtu.edu.cn **(preferred)** **or** 12010326@mail.sustech.edu.cn **or** xuankang724@gmail.com
