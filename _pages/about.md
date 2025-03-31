@@ -26,7 +26,7 @@ I am currently a PhD student at Shanghai Jiao Tong University advised by Prof.We
 ## News
 **[Sep 19, 2024]** I started my new journey at **SJTU**.
 
-**[Jul 4, 2024]** I graduated from **SUSTECH** and earned my bachelor's degree in engineering. The past four years have been an incredible journey. Thanks to Prof. Yida Li and all the teachers and friends in SUSTECH.  
+**[Jul 4, 2024]** I graduated from **SUSTECH** and earned my bachelor's degree in engineering. The past four years have been an incredible journey. Thanks to Prof. Yida Li and all the teachers and friends at SUSTECH.  
 
 **[Feb 4, 2024]** I build this **Homepage**! 
 
